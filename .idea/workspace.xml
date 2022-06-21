@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e7f1b26-6a8b-4463-bed9-c741b0797232" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2AbUQ3JNgPB18N3nPirCTzJu9JW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e7f1b26-6a8b-4463-bed9-c741b0797232" name="Default Changelist" comment="" />
+      <created>1655277758458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655277758458</updated>
+      <workItem from="1655277760740" duration="3653000" />
+      <workItem from="1655355716514" duration="2124000" />
+      <workItem from="1655359677942" duration="478000" />
+      <workItem from="1655360187401" duration="1105000" />
+      <workItem from="1655361384705" duration="1482000" />
+      <workItem from="1655444494507" duration="3662000" />
+      <workItem from="1655703256928" duration="181000" />
+      <workItem from="1655705224222" duration="778000" />
+      <workItem from="1655710334536" duration="1769000" />
+      <workItem from="1655791960495" duration="1210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="290" y="112" width="426" height="508" key="FileChooserDialogImpl" timestamp="1655452875365">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="290" y="112" width="426" height="508" key="FileChooserDialogImpl/0.0.1024.741@0.0.1024.741" timestamp="1655452875365" />
+    <state x="328" y="290" width="351" height="152" key="NewPhpFileDialog" timestamp="1655278795037">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="328" y="290" width="351" height="152" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1655278795037" />
+    <state x="12" y="3" key="SettingsEditor" timestamp="1655277827092">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="12" y="3" key="SettingsEditor/0.0.1024.741@0.0.1024.741" timestamp="1655277827092" />
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1655710408065">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1024.741@0.0.1024.741" timestamp="1655710408065" />
+  </component>
+</project>
